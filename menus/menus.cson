@@ -3,7 +3,7 @@
     'label': 'Packages'
     'submenu': [
       {
-        'label': 'Clippy'
+        'label': 'OctoClippy'
         'submenu': [
             {
               'label': 'Toggle'
@@ -20,6 +20,10 @@
             {
               'label': 'Switch Agent'
               'submenu': [
+                {
+                  'label': 'Octocat',
+                  'command': 'clippy:switch-agent-to-octocat'
+                },
                 {
                   'label': 'Clippy',
                   'command': 'clippy:switch-agent-to-clippy'
