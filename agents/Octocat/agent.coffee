@@ -1912,7 +1912,7 @@ module.exports =
           duration: 200
           images: [[
             0
-            395
+            780
           ]]
           sound: "15"
         }
@@ -1920,21 +1920,21 @@ module.exports =
           duration: 100
           images: [[
             242
-            395
+            780
           ]]
         }
         {
           duration: 50
           images: [[
             484
-            395
+            780
           ]]
         }
         {
           duration: 50
           images: [[
             726
-            395
+            780
           ]]
           sound: "14"
         }
@@ -1942,49 +1942,49 @@ module.exports =
           duration: 50
           images: [[
             968
-            395
+            780
           ]]
         }
         {
           duration: 50
           images: [[
             1210
-            395
+            780
           ]]
         }
         {
           duration: 50
           images: [[
             1452
-            395
+            780
           ]]
         }
         {
           duration: 50
           images: [[
             1694
-            395
+            780
           ]]
         }
         {
           duration: 50
           images: [[
             1936
-            395
+            780
           ]]
         }
         {
           duration: 50
           images: [[
             2178
-            395
+            780
           ]]
         }
         {
           duration: 100
           images: [[
             2420
-            395
+            780
           ]]
           exitBranch: 21
         }
