@@ -638,7 +638,7 @@ module.exports =
           duration: 200
           images: [[
             0
-            190
+            192
           ]]
           sound: "15"
         }
@@ -646,21 +646,21 @@ module.exports =
           duration: 100
           images: [[
             242
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             484
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             726
-            190
+            192
           ]]
           sound: "14"
         }
@@ -668,105 +668,105 @@ module.exports =
           duration: 50
           images: [[
             968
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             1210
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             1452
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             1694
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             1936
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             2178
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             2420
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             2662
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             2904
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             3146
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             3388
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             3630
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             3872
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             4114
-            190
+            192
           ]]
         }
         {
           duration: 50
           images: [[
             4356
-            190
+            192
           ]]
           exitBranch: 21
         }
@@ -1981,12 +1981,75 @@ module.exports =
           ]]
         }
         {
-          duration: 100
+          duration: 50
           images: [[
             2420
             780
           ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2662
+            780
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2904
+            780
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3146
+            780
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3388
+            780
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3630
+            780
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3872
+            780
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            4114
+            780
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            4356
+            780
+          ]]
           exitBranch: 21
+        }
+        {
+          duration: 100
+          images: [[
+            0
+            0
+          ]]
         }
       ]
 
