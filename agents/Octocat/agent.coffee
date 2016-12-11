@@ -18,8 +18,8 @@ module.exports =
     "15"
   ]
   framesize: [
-    224.4
-    176.5
+    242
+    190
   ]
   animations:
     Congratulate:
@@ -35,21 +35,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -57,37 +57,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -113,21 +84,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -135,37 +106,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -191,21 +133,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -213,37 +155,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -269,21 +182,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -291,37 +204,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -347,21 +231,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -369,37 +253,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -425,21 +280,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -447,37 +302,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -503,21 +329,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -525,37 +351,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -581,21 +378,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -603,44 +400,55 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
           ]]
+          exitBranch: 21
         }
         {
           duration: 50
           images: [[
+            1210
             0
-            176.5
           ]]
+          exitBranch: 21
         }
         {
           duration: 50
           images: [[
-            224.4
-            176.5
+            1452
+            0
           ]]
+          exitBranch: 21
         }
         {
           duration: 50
           images: [[
-            448.8
-            176.5
+            1694
+            0
           ]]
-          sound: "1"
+          exitBranch: 21
         }
         {
           duration: 50
           images: [[
-            673.2
-            176.5
+            1936
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            2178
+            0
           ]]
           exitBranch: 21
         }
         {
           duration: 100
           images: [[
-            0
+            2420
             0
           ]]
         }
@@ -659,21 +467,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -681,44 +489,55 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
           ]]
+          exitBranch: 21
         }
         {
           duration: 50
           images: [[
+            1210
             0
-            176.5
           ]]
+          exitBranch: 21
         }
         {
           duration: 50
           images: [[
-            224.4
-            176.5
+            1452
+            0
           ]]
+          exitBranch: 21
         }
         {
           duration: 50
           images: [[
-            448.8
-            176.5
+            1694
+            0
           ]]
-          sound: "1"
+          exitBranch: 21
         }
         {
           duration: 50
           images: [[
-            673.2
-            176.5
+            1936
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            2178
+            0
           ]]
           exitBranch: 21
         }
         {
           duration: 100
           images: [[
-            0
+            2420
             0
           ]]
         }
@@ -737,21 +556,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -759,44 +578,55 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
           ]]
+          exitBranch: 21
         }
         {
           duration: 50
           images: [[
+            1210
             0
-            176.5
           ]]
+          exitBranch: 21
         }
         {
           duration: 50
           images: [[
-            224.4
-            176.5
+            1452
+            0
           ]]
+          exitBranch: 21
         }
         {
           duration: 50
           images: [[
-            448.8
-            176.5
+            1694
+            0
           ]]
-          sound: "1"
+          exitBranch: 21
         }
         {
           duration: 50
           images: [[
-            673.2
-            176.5
+            1936
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            2178
+            0
           ]]
           exitBranch: 21
         }
         {
           duration: 100
           images: [[
-            0
+            2420
             0
           ]]
         }
@@ -808,66 +638,135 @@ module.exports =
           duration: 200
           images: [[
             0
-            0
+            190
           ]]
           sound: "15"
         }
         {
           duration: 100
           images: [[
-            224.4
-            0
+            242
+            190
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
-            0
+            484
+            190
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
-            0
+            726
+            190
           ]]
           sound: "14"
         }
         {
           duration: 50
           images: [[
-            897.6
-            0
+            968
+            190
           ]]
         }
         {
           duration: 50
           images: [[
-            0
-            176.5
+            1210
+            190
           ]]
         }
         {
           duration: 50
           images: [[
-            224.4
-            176.5
+            1452
+            190
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
-            176.5
+            1694
+            190
           ]]
-          sound: "1"
         }
         {
           duration: 50
           images: [[
-            673.2
-            176.5
+            1936
+            190
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2178
+            190
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2420
+            190
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2662
+            190
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2904
+            190
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3146
+            190
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3388
+            190
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3630
+            190
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3872
+            190
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            4114
+            190
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            4356
+            190
           ]]
           exitBranch: 21
         }
@@ -893,21 +792,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -915,37 +814,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -971,21 +841,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -993,37 +863,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1049,21 +890,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -1071,37 +912,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1127,21 +939,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -1149,37 +961,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1205,21 +988,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -1227,37 +1010,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1283,21 +1037,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -1305,37 +1059,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1361,21 +1086,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -1383,37 +1108,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1439,21 +1135,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -1461,37 +1157,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1517,21 +1184,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -1539,37 +1206,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1595,21 +1233,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -1617,37 +1255,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1673,21 +1282,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -1695,37 +1304,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1751,21 +1331,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -1773,37 +1353,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1829,21 +1380,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -1851,37 +1402,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1907,21 +1429,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -1929,37 +1451,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -1985,21 +1478,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -2007,37 +1500,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -2063,21 +1527,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -2085,37 +1549,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -2141,21 +1576,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -2163,37 +1598,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -2219,21 +1625,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -2241,37 +1647,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -2297,21 +1674,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -2319,37 +1696,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -2375,21 +1723,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -2397,37 +1745,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -2453,21 +1772,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -2475,37 +1794,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -2531,21 +1821,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -2553,37 +1843,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -2609,21 +1870,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -2631,37 +1892,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -2680,75 +1912,81 @@ module.exports =
           duration: 200
           images: [[
             0
-            0
+            395
           ]]
           sound: "15"
         }
         {
           duration: 100
           images: [[
-            224.4
-            0
+            242
+            395
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
-            0
+            484
+            395
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
-            0
+            726
+            395
           ]]
           sound: "14"
         }
         {
           duration: 50
           images: [[
-            897.6
-            0
+            968
+            395
           ]]
         }
         {
           duration: 50
           images: [[
-            0
-            176.5
+            1210
+            395
           ]]
         }
         {
           duration: 50
           images: [[
-            224.4
-            176.5
+            1452
+            395
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
-            176.5
+            1694
+            395
           ]]
-          sound: "1"
         }
         {
           duration: 50
           images: [[
-            673.2
-            176.5
+            1936
+            395
           ]]
-          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            2178
+            395
+          ]]
         }
         {
           duration: 100
           images: [[
-            0
-            0
+            2420
+            395
           ]]
+          exitBranch: 21
         }
       ]
 
@@ -2758,66 +1996,135 @@ module.exports =
           duration: 200
           images: [[
             0
-            0
+            585
           ]]
           sound: "15"
         }
         {
           duration: 100
           images: [[
-            224.4
-            0
+            242
+            585
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
-            0
+            484
+            585
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
-            0
+            726
+            585
           ]]
           sound: "14"
         }
         {
           duration: 50
           images: [[
-            897.6
-            0
+            968
+            585
           ]]
         }
         {
           duration: 50
           images: [[
-            0
-            176.5
+            1210
+            585
           ]]
         }
         {
           duration: 50
           images: [[
-            224.4
-            176.5
+            1452
+            585
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
-            176.5
+            1694
+            585
           ]]
-          sound: "1"
         }
         {
           duration: 50
           images: [[
-            673.2
-            176.5
+            1936
+            585
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2178
+            585
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2420
+            585
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2662
+            585
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2904
+            585
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3146
+            585
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3388
+            585
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3630
+            585
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3872
+            585
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            4114
+            585
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            4356
+            585
           ]]
           exitBranch: 21
         }
@@ -2843,21 +2150,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -2865,37 +2172,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -2921,21 +2199,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -2943,37 +2221,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -2999,21 +2248,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -3021,37 +2270,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -3063,6 +2283,7 @@ module.exports =
           ]]
         }
       ]
+
     RestPose:
       frames: [
         duration: 100
@@ -3085,21 +2306,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -3107,37 +2328,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
@@ -3163,21 +2355,21 @@ module.exports =
         {
           duration: 100
           images: [[
-            224.4
+            242
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            448.8
+            484
             0
           ]]
         }
         {
           duration: 50
           images: [[
-            673.2
+            726
             0
           ]]
           sound: "14"
@@ -3185,37 +2377,8 @@ module.exports =
         {
           duration: 50
           images: [[
-            897.6
+            968
             0
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            0
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            224.4
-            176.5
-          ]]
-        }
-        {
-          duration: 50
-          images: [[
-            448.8
-            176.5
-          ]]
-          sound: "1"
-        }
-        {
-          duration: 50
-          images: [[
-            673.2
-            176.5
           ]]
           exitBranch: 21
         }
