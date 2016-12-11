@@ -1996,7 +1996,7 @@ module.exports =
           duration: 200
           images: [[
             0
-            0
+            580
           ]]
           sound: "15"
         }
@@ -2004,21 +2004,21 @@ module.exports =
           duration: 100
           images: [[
             242
-            0
+            580
           ]]
         }
         {
           duration: 50
           images: [[
             484
-            0
+            580
           ]]
         }
         {
           duration: 50
           images: [[
             726
-            0
+            580
           ]]
           sound: "14"
         }
@@ -2026,7 +2026,105 @@ module.exports =
           duration: 50
           images: [[
             968
-            0
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            1210
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            1452
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            1694
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            1936
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2178
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2420
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2662
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2904
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3146
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3388
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3630
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            3872
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            4114
+            580
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            4356
+            580
           ]]
           exitBranch: 21
         }
