@@ -1,0 +1,3 @@
+'atom-text-editor':
+  'ctrl-f': 'clippy:searchAnim'
+  'cmd-alt-f': 'clippy:searchAnim'

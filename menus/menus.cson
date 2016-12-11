@@ -25,6 +25,10 @@
                   'command': 'clippy:switch-agent-to-octocat'
                 },
                 {
+                  'label': 'Hubot',
+                  'command': 'clippy:switch-agent-to-hubot'
+                },
+                {
                   'label': 'Clippy',
                   'command': 'clippy:switch-agent-to-clippy'
                 },
