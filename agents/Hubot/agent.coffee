@@ -406,9 +406,49 @@ module.exports =
           exitBranch: 21
         }
         {
+          duration: 50
+          images: [[
+            1210
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            1452
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            1694
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            1936
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            2178
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
           duration: 100
           images: [[
-            0
+            2420
             0
           ]]
         }
@@ -455,9 +495,49 @@ module.exports =
           exitBranch: 21
         }
         {
+          duration: 50
+          images: [[
+            1210
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            1452
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            1694
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            1936
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            2178
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
           duration: 100
           images: [[
-            0
+            2420
             0
           ]]
         }
@@ -504,9 +584,49 @@ module.exports =
           exitBranch: 21
         }
         {
+          duration: 50
+          images: [[
+            1210
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            1452
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            1694
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            1936
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            2178
+            0
+          ]]
+          exitBranch: 21
+        }
+        {
           duration: 100
           images: [[
-            0
+            2420
             0
           ]]
         }
@@ -1792,7 +1912,7 @@ module.exports =
           duration: 200
           images: [[
             0
-            0
+            395
           ]]
           sound: "15"
         }
@@ -1800,21 +1920,21 @@ module.exports =
           duration: 100
           images: [[
             242
-            0
+            395
           ]]
         }
         {
           duration: 50
           images: [[
             484
-            0
+            395
           ]]
         }
         {
           duration: 50
           images: [[
             726
-            0
+            395
           ]]
           sound: "14"
         }
@@ -1822,16 +1942,51 @@ module.exports =
           duration: 50
           images: [[
             968
-            0
+            395
           ]]
-          exitBranch: 21
+        }
+        {
+          duration: 50
+          images: [[
+            1210
+            395
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            1452
+            395
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            1694
+            395
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            1936
+            395
+          ]]
+        }
+        {
+          duration: 50
+          images: [[
+            2178
+            395
+          ]]
         }
         {
           duration: 100
           images: [[
-            0
-            0
+            2420
+            395
           ]]
+          exitBranch: 21
         }
       ]
 
