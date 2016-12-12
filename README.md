@@ -1,6 +1,6 @@
 # Clippy
 
-This Atom package adds Octocat and Hubot to the [Atom](http://atom.io) package Clippy (and friends) for your [Clippy](https://github.com/sibartlett/atom-clippy).
+This Atom package adds Octocat and Hubot to the [Atom](http://atom.io) package [Clippy](https://github.com/sibartlett/atom-clippy) (and friends) .
 
 
 <img src="https://res.cloudinary.com/devpost/image/fetch/s--QHGCpnWK--/https://github.com/npentrel/octoclippy/blob/master/gifs/ears.gif%3Fraw%3Dtrue" alt="Octocat" style="width: 200px;"/> <img src="https://res.cloudinary.com/devpost/image/fetch/s--KujfWW6p--/https://github.com/npentrel/octoclippy/blob/master/gifs/doubleblink.gif%3Fraw%3Dtrue" alt="Octocat" style="width: 200px;"/> <img src="https://res.cloudinary.com/devpost/image/fetch/s--3sRl991X--/https://github.com/npentrel/octoclippy/blob/master/gifs/tentacles.gif%3Fraw%3Dtrue" alt="Octocat" style="width: 200px;"/>
